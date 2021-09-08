@@ -2,7 +2,7 @@
 
 ## Conteúdos
 
-- Nó
+- Nó com Generics (Basico)
 
 ## Extras
 
